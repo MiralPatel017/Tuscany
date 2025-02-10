@@ -1,0 +1,1185 @@
+#abourheadermaindiv {
+    background-image: url("./images/julia-solonina-Csja8O0sbOw-unsplash 1_2.png");
+    min-height: 750px;
+    background-size: cover;
+    /* overflow-y: hidden; */
+    width: 100%;
+}
+
+.navdiv{
+    z-index: 100;
+}
+
+/* home underline */
+#Homelink {
+    text-decoration-line: underline;
+    text-decoration-color: #FA8B02;
+    text-decoration-thickness: 2px;
+}
+
+body{
+    overflow: hidden;
+}x
+/* nav logo */
+#mainlogo {
+    position: relative;
+    left: 10%;
+    height: 80px;
+}
+
+/* login and signIn  buttons */
+#loginbtn {
+    border-radius: 30px;
+    height: 40px;
+    width: 80px;
+    /* text-align: center; */
+}
+
+/* #logbtn:hover #loginbtn{
+    background-color: #FA8B02;
+} */
+
+#sigbtn {
+    border-radius: 30px;
+    height: 40px;
+    text-align: center;
+    width: 120px;
+    background-color: #FA8B02;
+    color: #FFFFFF;
+}
+
+/* search button */
+#tourimage {
+    position: relative;
+    left: 30%;
+}
+
+/* main contain text */
+#enjoytext {
+    font-size: 60px;
+}
+
+#triptext {
+    font-size: 25px;
+}
+
+/* public and private tour */
+
+#publicandprivate,
+#privateandprivate {
+    background-color: #FFFFFF33;
+    height: 170px;
+    padding: 10px;
+    /* border-radius: 10px; */
+    border-radius: 10px;
+}
+
+/* #puntur,#pubdate,#pubtime{
+    background-color: #FFFFFF;
+} */
+
+#grpdiv {
+    border-radius: 10px;
+    padding: 10px;
+    /* padding-right: 0px; */
+}
+
+.card-body {
+    font-size: 14px;
+}
+
+.card-body>p {
+    font-size: 14px;
+}
+
+#readmore {
+    color: #FA8B02;
+    text-decoration: none;
+}
+
+#companyvisiteimage {
+    width: 350px;
+    /* height: 100px; */
+}
+
+#visittext {
+    position: relative;
+    top: 10%;
+    /* line-height: 50px; */
+}
+
+#forcont {
+    color: #FA8B02;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+#visitesite {
+    color: gray;
+}
+
+#bestvisit {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: normal;
+}
+
+#visitecont {
+    line-height: 10px;
+}
+
+/* #visiteconttext{
+    /* line-height: normal; *
+} */
+
+/* offer contain */
+
+#offermaindiv {
+    background-image: linear-gradient(to top, rgba(255, 182, 95, 1) 0%, rgba(252, 220, 178, 1) 100%);
+    background-size: 100% 70%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    /* position: relative; */
+}
+
+#fourcardgrp {
+    margin-top: 100px;
+}
+
+#offerimage {
+    width: 300px;
+    position: relative;
+    left: 35%;
+}
+
+#offercont {
+    position: relative;
+    top: 40%;
+    font-size: 14px;
+}
+
+#popukerdiv {
+    margin-top: 100px;
+}
+
+#visitemaindiv {
+    margin-top: 100px;
+}
+
+#exploretext {
+    margin-bottom: 50px;
+}
+
+#offertext {
+
+    background-color: #fed7b8;
+    border-radius: 15px;
+    padding: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#Specialtext {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#specialbtn {
+    color: #FFFFFF;
+    font-weight: 500;
+    border-radius: 50px;
+    height: 50px;
+    width: 200px;
+    background-color: #FA8B02;
+}
+
+swiper-slide {
+    width: 300px;
+}
+
+#cardfirst,
+#cardsecond,
+#cardthird,
+#cardforth {
+    width: 300px;
+}
+
+#cardfirst img {
+    height: 300px;
+}
+
+
+
+
+label {
+    font-weight: bold;
+}
+
+#bookbikemaindiv {
+    padding-top: 30px;
+    background-image: linear-gradient(to top, rgb(254, 179, 87), rgb(255, 211, 155));
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: auto;
+    margin-top: 100px;
+}
+
+#happycustmaindiv {
+    margin-top: 100px;
+}
+
+
+
+
+#populermaintitle {
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+
+.col-md-6 {
+    height: auto;
+}
+
+#bikeimage {
+    width: 600px;
+    position: relative;
+    top: 12%;
+}
+
+#bookform {
+    background-color: #ffddbc;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#bookbikeformdiv {
+    position: relative;
+    margin-top: 20px;
+}
+
+#bookbikebtn {
+    margin-top: 10px;
+    background-color: #FA8B02;
+    color: #FFFFFF;
+    width: 150px;
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#custimage {
+    width: 100px;
+}
+
+#custbody {
+    background-image: url("./images/Asset 16 1.png");
+    /* background-size: 100px 100px; */
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+#custcarddiv {
+    background-image: url("./images/Asset 16 2.png");
+    background-repeat: no-repeat;
+    background-position: 4% 46%;
+}
+
+#pacfirstcard,
+#pacsecondcard,
+#pacthirdcard,
+#pacforthcard {
+    width: 300px;
+}
+
+#pacspan {
+    margin-right: 8px;
+}
+
+li {
+    font-weight: 500;
+    list-style: none;
+}
+
+li img {
+    width: 20px;
+}
+
+#pacbtn {
+    color: #FA8B02;
+    border-color: #FA8B02;
+    border-radius: 20px;
+    width: 260px;
+    border-width: 2px;
+    font-weight: 500;
+}
+
+#pricday {
+    font-weight: 500;
+    color: #FA8B02;
+    font-size: 25px;
+    /* border-width: 10px; */
+}
+
+#cardbodybor {
+    border-color: solid black;
+    /* border-width: 2px; */
+    /* border-radius: 1px; */
+}
+
+#custtext {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+#footerpart {
+    padding-top: 50px;
+    background-color: #333333;
+}
+
+#footerlogo {
+    width: 130px;
+}
+
+#footerhr {
+    /* height: 1px; */
+    border-color: #5f5f5f;
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#firstfooterdiv {
+    width: 300px;
+    color: #FFFFFF;
+}
+
+#secondfooterdiv {
+    color: #FFFFFF;
+    width: 180px;
+}
+
+#thirdfooterdiv {
+    color: #FFFFFF;
+    width: 170px;
+}
+
+#forthfooterdiv {
+    color: #FFFFFF;
+    width: 300px;
+}
+
+#fifthfooterdiv {
+    width: 250px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#headeerli {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+footer a {
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer li {
+    margin-bottom: 5px;
+}
+
+#fifthfooterdiv li img {
+    width: 150px;
+}
+
+
+/* slider */
+
+#galleries-list .contents {
+    border: solid black;
+    text-align: center;
+    background: lightgrey;
+    padding: 10%;
+    margin-left: 10px;
+    margin: auto;
+    width: 500px;
+    font-size: 40px;
+}
+
+#galleries-list {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    width: 100%;
+}
+
+#galleries-list ul {
+    width: 100%;
+    overflow-y: hidden;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#galleries-list ul li {
+    position: relative;
+    left: 0px;
+    float: left;
+    text-align: center;
+    padding: 0px;
+    transition: left .75s ease-out;
+}
+
+#galleries-list .slider-nav {
+    position: relative;
+    float: left;
+    left: calc(50% - 45px);
+}
+
+#galleries-list .slide-left,
+#galleries-list .slide-right {
+    cursor: pointer;
+    /* -webkit-user-select: none; */
+}
+
+#relaxcont {
+    color: #FFFFFF;
+}
+
+@font-face {
+    font-family: 'Podcast';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Podcast'), url('https://fonts.cdnfonts.com/s/56731/Podcast.woff') format('woff');
+}
+
+#relextxt {
+    text-align: center;
+    font-size: 50px;
+    font-family: Podcast;
+}
+
+#pegbtn {
+    border-color: #FFFFFF;
+    border-radius: 20px;
+    width: 250px;
+    color: #FFFFFF;
+}
+#abourheadermaindiv{
+    position: relative;
+}
+#miancenterdiv {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+}
+@media (max-width: 700px) {
+    #miancenterdiv {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+#welcared {
+    /* margin-top: 50px; */
+    border-radius: 20px;
+}
+
+#welmaindiv {
+    margin-top: 100px;
+}
+
+#welcometxt2 {
+
+    line-height: 0.9;
+    font-weight: bold;
+    font-size: 34px;
+}
+
+#welcometxt1 {
+    font-size: 14px;
+    line-height: 3;
+}
+
+#welcometxt3 {
+
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+#colortext {
+    font-size: 30px;
+    color: #FA8B02;
+    font-weight: bold;
+}
+
+#welmaindiv2 {
+    margin-top: 5%;
+}
+
+#forcardgrp {
+    margin-top: 100px;
+    background-image: linear-gradient(to top, rgba(255, 182, 95, 1) 0%, rgba(252, 220, 178, 1) 100%);
+}
+
+#cardsgrp {
+    background-color: #fed7b8;
+    padding: 20px;
+    /* padding-bottom: 100px; */
+    height: 150px;
+    border-radius: 20px;
+    text-align: center;
+    width: 230px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#cardsgrp img {
+    position: relative;
+    left: 40%;
+    width: 40px;
+}
+
+#tortitletext {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#firsttorpac,
+#secondtorpac,
+#thirdtorpac,
+#forthtorpac,
+#fifthtorpac,
+#sixthtorpac,
+#seventhtorpac,
+#eighttorpac {
+    width: 300px;
+}
+
+#daypera1 {
+    width: 150px;
+    color: #FA8B02;
+}
+
+#daypera2 {
+    width: 150px;
+    color: #FA8B02;
+}
+
+#firsttorpacser,
+#secondtorpacser,
+#thirdtorpacser,
+#fifthtorpacser,
+#sixthtorpacser,
+#seventhtorpacser {
+    width: 400px;
+}
+
+#happycust {
+    margin-top: 100px;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+#gettuchform {
+    background-image: linear-gradient(to top, rgba(255, 182, 95, 1) 0%, rgba(252, 220, 178, 1) 100%);
+    margin-top: 70px;
+}
+
+#gettuchtitle {
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+#getperatext {
+    columns: 2;
+    font-weight: bold;
+}
+
+#getnumber {
+    width: 300px;
+    height: 57px;
+    padding: 13px;
+    background-color: #fdcea7;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#getmail,
+#getlocation {
+    padding-left: 13px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#getform {
+    background-color: #fed7b8;
+    padding: 25px;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#msgbtn {
+    font: bold;
+    background-color: #FA8B02;
+    color: white;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+
+
+/* slider */
+
+#galleries-list .content {
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    background: lightgrey;
+    padding: 4% 0;
+    padding: 10% 0;
+    margin: auto;
+    box-sizing: border-box;
+    font-size: 40px;
+}
+
+#galleries-list {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    width: 100%;
+}
+
+#galleries-list ul {
+    width: 100%;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#galleries-list ul li {
+    position: relative;
+    left: 0px;
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    transition: left .75s ease-out;
+}
+
+#galleries-list ul li a {
+    color: white;
+}
+
+#galleries-list ul li p {
+    padding: 0px 15px 0px 15px;
+    font-size: 15px;
+    color: #758a9f !important;
+}
+
+#galleries-list ul li h2 {
+    font-size: 25px;
+    color: white;
+}
+
+#galleries-list .slider-nav {
+    position: relative;
+    float: left;
+    left: calc(50% - 45px);
+}
+
+#galleries-list .slide-left {
+    margin-right: 10px;
+}
+
+#galleries-list .slide-left,
+#galleries-list .slide-right {
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Chrome/Safari/Opera */
+    -khtml-user-select: none;
+    /* Konqueror */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+    not supported by any browser */
+}
+
+#galleries-list .slide-left:hover,
+#galleries-list .slide-right:hover {
+    font-weight: 700;
+}
+
+
+/* calender */
+
+
+.calendar-box {
+    text-align: center;
+    padding: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    height: 80px;
+}
+
+.calendar-title {
+    /* font-size: 18px; */
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.calendar {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    /*   width: 300px; */
+    position: absolute;
+    z-index: 1;
+    display: none;
+}
+
+.header {
+    background-color: #FA8B02;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#prevBtn,
+#nextBtn {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#monthYear {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 5px;
+    padding: 10px;
+}
+
+.day {
+    padding: 7px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+.day.selected {
+    background-color: #FA8B02;
+    color: white;
+}
+
+#dateInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    outline: none;
+    cursor: pointer;
+}
+
+
+#dropdownHover li:hover a {
+    color: #FA8B02;
+}
+
+#dropdownHover1 li:hover a {
+    color: #FA8B02;
+}
+
+#dropdownHover2 li:hover a {
+    color: #FA8B02;
+}
+
+
+/* private date */
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.calendar1 {
+    margin-bottom: 200px;
+}
+
+.class-link {
+    color: #fa8b02;
+    text-decoration: none;
+}
+
+.class-link:hover {
+    color: #000;
+}
+
+/* From here you can start to copy */
+
+.calendar1 {
+    padding: 8px;
+    /*   width: 100px; */
+    background: #ffffff;
+    border-radius: 4px;
+    font-size: 18px;
+    /*   margin-top: 10px; */
+    border: 1px solid;
+    box-shadow: 0px 20px 40px rgba(59, 60, 56, 0.05);
+}
+
+.ui-datepicker {
+    background: #ffffff;
+    border-radius: 15px;
+}
+
+.ui-datepicker-header {
+    height: 50px;
+    line-height: 50px;
+    color: #ffffff;
+    background: #fa8b02;
+    margin-bottom: 10px;
+}
+
+.ui-datepicker-prev,
+.ui-datepicker-next {
+    width: 20px;
+    height: 20px;
+    text-indent: 9999px;
+    border-radius: 100%;
+    cursor: pointer;
+    overflow: hidden;
+    margin-top: 12px;
+}
+
+.ui-datepicker-prev {
+    float: left;
+    margin-left: 12px;
+}
+
+.ui-datepicker-prev:after {
+    transform: rotate(45deg);
+    margin: -43px 0px 0px 8px;
+}
+
+.ui-datepicker-next {
+    float: right;
+    margin-right: 12px;
+}
+
+.ui-datepicker-next:after {
+    transform: rotate(-135deg);
+    margin: -43px 0px 0px 6px;
+}
+
+.ui-datepicker-prev:after,
+.ui-datepicker-next:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 8px;
+    height: 8px;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #ffffff;
+}
+
+.ui-datepicker-title {
+    text-align: center;
+    font-size: 22px;
+}
+
+.ui-datepicker-calendar {
+    width: 100px;
+    /*   left: 100px; */
+    text-align: center;
+}
+
+.ui-datepicker-calendar thead tr th span {
+    display: block;
+    width: 40px;
+    /*   color: #FA8B02; */
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.ui-state-default {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    line-height: 40px;
+    font-size: 16px;
+}
+
+.ui-state-default:hover {
+    color: #fff;
+    font-weight: bold;
+    background: rgba(255, 182, 95, 1);
+    border-radius: 50px;
+    transition: all 0.25s cubic-bezier(0.7, -0.12, 0.2, 1.12);
+}
+
+.ui-state-active {
+    color: #ffffff;
+    background-color: #fa8b02;
+    border-radius: 50px;
+}
+
+.ui-datepicker-unselectable .ui-state-default {
+    color: #eee;
+    border: 2px solid transparent;
+}
+
+.icon {
+    margin-left: -30px;
+    margin-top: -26px;
+    position: relative;
+    color: #fa8b02;
+    font-size: 20px;
+}
+
+@media (max-width : 426px) {
+
+
+    #galleries-list ul li {
+        min-width: 100%;
+    }
+
+    /* book new bike */
+
+    #nacdiv .collapse {
+        /* color: #fff; */
+        opacity: 1;
+        border-radius: 10px;
+        background-color: #9d9d9df3;
+    }
+
+    #nacdiv .collapse #sigbtn {
+        margin-bottom: 20px;
+    }
+
+    #bookbikemaindiv {
+        /* padding-top: 30px; */
+        /* background-image: linear-gradient(to top, rgb(254, 179, 87), rgb(255, 211, 155)); */
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        height: 100%;
+        margin-top: 100px;
+    }
+
+    #bookbikemaindiv img {
+        width: 100%;
+    }
+
+    #offermaindiv {
+        /* background-image: linear-gradient(to top, rgba(255, 182, 95, 1) 0%, rgba(252, 220, 178, 1) 100%); */
+        background-size: 100% 100%;
+        /* background-position: bottom; */
+        background-repeat: no-repeat;
+        /* margin-top: 100px; */
+        /* position: relative; */
+    }
+
+    #offermaindiv img {
+        width: 100%;
+        left: 0%;
+        margin-top: 150px;
+    }
+
+    .navbar-collapse {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navbar-nav {
+        width: 100%;
+    }
+
+    .navbar-nav .nav-item {
+        width: 100%;
+    }
+
+    #sigbtn {
+        /* justify-content: center; */
+        /* text-align: center; */
+        /* position: relative; */
+        align-self: center;
+        /* left: 30%; */
+    }
+
+    .navbar-nav .nav-link {
+        text-align: center;
+        width: 100%;
+    }
+
+    .navbar-nav.ms-auto {
+        margin-top: 10px;
+    }
+
+    /* Ensure the logo is visible at the top in mobile view */
+    .navbar-brand {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        margin-top: 10px;
+    }
+
+    #getnumber {
+        width: 100%;
+    }
+
+}
+
+
+@media (min-width: 426px) and (max-width: 770px) {
+
+    #galleries-list ul li {
+        min-width: 100%;
+    }
+
+    .navbar-collapse {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navbar-nav {
+        width: 100%;
+    }
+
+    .navbar-nav .nav-item {
+        width: 100%;
+    }
+
+    .navbar-nav .btn {
+        align-items: center;
+    }
+
+    #sigbtn {
+        text-align: center;
+        position: relative;
+        left: 41%;
+    }
+
+    .navbar-nav .nav-link {
+        text-align: center;
+        width: 100%;
+    }
+
+    .navbar-nav.ms-auto {
+        margin-top: 10px;
+    }
+
+    /* Ensure the logo is visible at the top in mobile view */
+    .navbar-brand {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        margin-top: 10px;
+    }
+
+    #bookbikemaindiv {
+        /* padding-top: 30px; */
+        /* background-image: linear-gradient(to top, rgb(254, 179, 87), rgb(255, 211, 155)); */
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: 100%;
+        margin-top: 100px;
+    }
+
+    #bookbikemaindiv img {
+        width: 100%;
+    }
+
+    #getnumber {
+        width: 100%;
+    }
+
+    #offerimage {
+        left: 0%;
+        /* width: 100px6; */
+    }
+
+    #offertext {
+        /* position: relative; */
+        width: 300px;
+    }
+}
